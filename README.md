@@ -1,4 +1,4 @@
-# Presidential-Tweets-Sentiment-Analysis
+# Presidential-Election-Tweets-Sentiment-Analysis
 
 Sentiment analysis by fine-tuning BERT, achieving 86% accuracy.
 
